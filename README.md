@@ -1,6 +1,6 @@
 
-# Codsoft
-## Assignment list ---
+<h1><center> Codsoft </center></h1>
+<h2><center>---Assignment list---</center></h2>
 + ## ***----------TASK 1  :  NUMBER GAME--------***
 
   1. Generate a random number within a specified range, such as 1 to 100.
