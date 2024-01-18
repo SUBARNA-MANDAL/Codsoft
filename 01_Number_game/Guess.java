@@ -4,7 +4,7 @@ public class Guess {
       int totattempt=0,correct=0;
       String k;
       Scanner sc = new Scanner(System.in);
-      System.out.println("Welcome to guess game!!!\nGuess a number between 0 - 100 within "+totattempt+"attempts!!");
+      System.out.println("Welcome to guess game!!!\nGuess a number between 0 - 100 within 5 attempts!!");
       do{
          int count=0,totlim=5,guessnum;
          int randomnum = (int)(Math.random()*100) + 1;
