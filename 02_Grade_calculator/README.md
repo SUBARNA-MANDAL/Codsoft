@@ -1,4 +1,4 @@
-+ ## ***------------------TASK 2  :   STUDENT GRADE CALCULATOR ------------------------***
+<h2 align="center"> TASK 2  :   STUDENT GRADE CALCULATOR </h2>
   1. Input: Take marks obtained (out of 100) in each subject.
   2. Calculate Total Marks: Sum up the marks obtained in all subjects.
   3. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
