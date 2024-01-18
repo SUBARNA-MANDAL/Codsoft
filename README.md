@@ -1,5 +1,5 @@
 
-<h1 align="center"> Codsoft </h1>
+<h1 align="center">  Codsoft  </h1>
 <h2 align="center">---Assignment list---</h2>
 
 <h3 align="center"> ----------TASK 1  :  NUMBER GAME-------- </h3>
