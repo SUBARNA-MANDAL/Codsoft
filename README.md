@@ -1,7 +1,9 @@
 
-<h1><center> Codsoft </center></h1>
-<h2><center>---Assignment list---</center></h2>
-+ ## ***----------TASK 1  :  NUMBER GAME--------***
+<h1 align="center"> Codsoft </h1>
+<h2 align="center">---Assignment list---</h2>
+
+<h3 align="center"> ----------TASK 1  :  NUMBER GAME-------- </h1>
+
 
   1. Generate a random number within a specified range, such as 1 to 100.
   2. Prompt the user to enter their guess for the generated number.
@@ -11,8 +13,8 @@
   6. Add the option for multiple rounds, allowing the user to play again.
   7. Display the user's score, which can be based on the number of attempts taken or rounds won.
     
+<h1 align="center">-----------  TASK 2  :   STUDENT GRADE CALCULATOR --------- </h1>
 
-+ ## ***-----------  TASK 2  :   STUDENT GRADE CALCULATOR ---------***
 
   1. Input: Take marks obtained (out of 100) in each subject.
   2. Calculate Total Marks: Sum up the marks obtained in all subjects.
@@ -21,7 +23,8 @@
   5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
 
-+ ## ***----------- TASK 3  :   ATM Interface -------------***
+<h1 align="center"> ----------- TASK 3  :   ATM Interface ------------- </h1>
+
 
   1. Create a class to represent the ATM machine.
   2. Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.
