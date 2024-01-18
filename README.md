@@ -2,7 +2,7 @@
 <h1 align="center"> Codsoft </h1>
 <h2 align="center">---Assignment list---</h2>
 
-<h3 align="center"> ----------TASK 1  :  NUMBER GAME-------- </h1>
+<h3 align="center" style ="background-color:powderblue;"> ----------TASK 1  :  NUMBER GAME-------- </h1>
 
 
   1. Generate a random number within a specified range, such as 1 to 100.
@@ -13,7 +13,7 @@
   6. Add the option for multiple rounds, allowing the user to play again.
   7. Display the user's score, which can be based on the number of attempts taken or rounds won.
     
-<h1 align="center">-----------  TASK 2  :   STUDENT GRADE CALCULATOR --------- </h1>
+<h3 align="center" style ="background-color:powderblue;">-----------  TASK 2  :   STUDENT GRADE CALCULATOR --------- </h1>
 
 
   1. Input: Take marks obtained (out of 100) in each subject.
@@ -23,7 +23,7 @@
   5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
 
-<h1 align="center"> ----------- TASK 3  :   ATM Interface ------------- </h1>
+<h3 align="center" style ="background-color:powderblue;"> ----------- TASK 3  :   ATM Interface ------------- </h1>
 
 
   1. Create a class to represent the ATM machine.
